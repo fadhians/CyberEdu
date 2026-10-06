@@ -1,0 +1,13 @@
+# Backend & Frontend Node Modules
+cyberedu-backend/node_modules/
+cyberedu-frontend/node_modules/
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs & Logs
+dist/
+build/
+*.log
